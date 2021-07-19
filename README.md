@@ -1,0 +1,7 @@
+An example of a Spring Boot Applications with Unit, Integration and End-to-end tests.
+
+GitHub Actions: [![Java CI with Maven](https://github.com/edoardodini/demo-spring-testing/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/edoardodini/demo-spring-testing/actions/workflows/maven.yml)
+
+Coveralls: [![Coverage Status](https://coveralls.io/repos/github/edoardodini/demo-spring-testing/badge.svg?branch=main)](https://coveralls.io/github/edoardodini/demo-spring-testing?branch=main)
+
+SonarCloud: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=edoardodini_SpringTestingRepo&metric=alert_status)](https://sonarcloud.io/dashboard?id=edoardodini_SpringTestingRepo) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=edoardodini_SpringTestingRepo&metric=bugs)](https://sonarcloud.io/dashboard?id=edoardodini_SpringTestingRepo) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=edoardodini_SpringTestingRepo&metric=code_smells)](https://sonarcloud.io/dashboard?id=edoardodini_SpringTestingRepo) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=edoardodini_SpringTestingRepo&metric=coverage)](https://sonarcloud.io/dashboard?id=edoardodini_SpringTestingRepo) [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=edoardodini_SpringTestingRepo&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=edoardodini_SpringTestingRepo)
