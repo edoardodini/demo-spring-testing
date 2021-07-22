@@ -8,6 +8,10 @@ public class Employee {
 	private String name;
 	private long salary;
 
+	public Employee() {
+		//serialization/deserialization
+	}
+	
 	public Employee(Long id, String name, long salary) {
 		this.id = id;
 		this.name = name;
